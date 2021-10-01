@@ -1,5 +1,5 @@
 ## Black lives matter 
-Black Lives Matter (BLM) is an international activist movement, originating in the African-American community, that campaigns against violence and systemic racism towards black people. BLM regularly holds protests speaking out against police killings of black people, and broader issues such as racial profiling, police brutality, and racial inequality in the United States criminal justice system.
+Black Lives Matter (BLM) is an international activist movement, originating in the African-American community, that campaigns against violence and systemic racism towards black people. BLM regularly holds protests speaking out against police killings of black people, and broader issues such as racial profiling, police brutality, and racial inequality in the United States criminal justice system...
 
 ***
 ### Demo : https://blacklivesmatter.netlify.app/
@@ -11,7 +11,7 @@ Black Lives Matter (BLM) is an international activist movement, originating in t
 ![click](https://github.com/ZiaXDev/Content/blob/main/ss%20(1).png)
 
 ***
-#### WIthout Music
+#### WIthout Music 
 ![Click here](https://github.com/ZiaXDev/Content/blob/main/ss%20(2).png)
 
 ***
